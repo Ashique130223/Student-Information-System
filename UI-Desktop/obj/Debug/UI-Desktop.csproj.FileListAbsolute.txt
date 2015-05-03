@@ -1,0 +1,14 @@
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe.config
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\Bo.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\Bo.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI_Desktop.Form1.resources
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI_Desktop.Properties.Resources.resources
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI-Desktop.csproj.GenerateResource.Cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI-Desktop.exe
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI-Desktop.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\UI-Desktop\obj\Debug\UI_Desktop.Form2.resources

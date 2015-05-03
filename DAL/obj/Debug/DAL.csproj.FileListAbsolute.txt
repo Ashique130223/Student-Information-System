@@ -1,0 +1,5 @@
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\DAL\bin\Debug\DAL.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\DAL\bin\Debug\DAL.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\DAL\obj\Debug\DAL.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\DAL\obj\Debug\DAL.pdb

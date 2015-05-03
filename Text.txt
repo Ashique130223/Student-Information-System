@@ -1,0 +1,287 @@
+130201
+Turna
+CSE '13
+Khulna
+II
+I
+01612130201
+130202
+Helal
+CSE '13
+Chuadanga
+II
+I
+01612130202
+130203
+Romeo
+CSE '13
+Jessore
+II
+I
+01612130203
+130204
+Swarna
+CSE '13
+Khulna
+II
+I
+01612130204
+130205
+Joydwip
+CSE '13
+Chittagong
+II
+I
+01612130205
+130206
+Sonam
+CSE '13
+Khulna
+II
+I
+01612130206
+130207
+Abir
+CSE '13
+Bagerhat
+II
+I
+01612130207
+130208
+Nipa
+CSE '13
+Bagerhat
+II
+I
+01612130208
+130209
+Sohel
+CSE '13
+Rajshahi
+II
+I
+01612130209
+130210
+Tasmia
+CSE '13
+Khulna
+II
+I
+01612130210
+130211
+Sabuj
+CSE '13
+Dinajpur
+II
+I
+01612130211
+130212
+Polash
+CSE '13
+Chuadanga
+II
+I
+01612130212
+130213
+Procheta
+CSE '13
+Madaripur
+II
+I
+01613130213
+130214
+Pinky
+CSE '13
+Khulna
+II
+I
+01612130214
+130215
+Shaon
+CSE '13
+Bagura
+II
+I
+01612130215
+130216
+Rupok
+CSE '13
+Khulna
+II
+I
+01612130216
+130217
+Masum
+CSE '13
+Khulna
+II
+I
+01612130217
+130218
+Pritam
+CSE '13
+Khulna
+II
+I
+01612130218
+130219
+Prince
+CSE '13
+Jessore
+II
+I
+01612130219
+130220
+Binayak
+CSE '13
+Khulna
+II
+I
+01612130220
+130221
+Koushik
+CSE '13
+Khulna
+II
+I
+01612130221
+130223
+Ashique
+CSE '13
+Khulna
+II
+I
+01612130223
+130224
+Zakaria
+CSE '13
+Jessore
+II
+I
+01612130224
+130225
+Diba
+CSE '13
+Jessore
+II
+I
+01612130225
+130226
+Disha
+CSE '13
+Bagerhat
+I
+II
+       NIL
+130227
+Foysal
+CSE '13
+Khulna
+II
+I
+01612130227
+130228
+Rayhan
+CSE '13
+Khulna
+II
+I
+01612130228
+130229
+Shapla
+CSE '13
+Khulna
+II
+I
+01612130229
+130230
+Mahin
+CSE '13
+Kurigram
+II
+I
+01612130230
+130231
+Sristy
+CSE '13
+Khulna
+II
+I
+01612130231
+130232
+Nabid
+CSE '13
+Dhaka
+II
+I
+01612130232
+130233
+Rafflesia
+CSE '13
+Khulna
+II
+I
+01612130233
+130235
+Biswajit
+CSE '13
+Jessore
+II
+I
+01612130235
+130236
+Umesh
+CSE '13
+Shatkhira
+II
+I
+01612130236
+130237
+Riaz
+CSE '13
+Chuadanga
+II
+I
+01612130237
+130238
+Farhan
+CSE '13
+Gaibandha
+II
+I
+01612130238
+130239
+Rilus
+CSE '13
+Dhaka
+II
+I
+01612130239
+130240
+Nayan
+CSE '13
+Khulna
+II
+I
+01612130240
+130223
+Ashique
+CSE '13
+Khulna
+II
+I
+01842432303
+130222
+Mazhar
+CSE '14
+Jhenidah
+I
+II
+     NIL
+130223
+Ashique
+CSE '13
+Khulna
+II
+I
+01521453348

@@ -1,0 +1,7 @@
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\bin\Debug\Bo.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\bin\Debug\Bo.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\bin\Debug\DAL.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\bin\Debug\DAL.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\obj\Debug\Bo.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\obj\Debug\Bo.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\ThreeLayerTest\Bo\obj\Debug\Bo.pdb
